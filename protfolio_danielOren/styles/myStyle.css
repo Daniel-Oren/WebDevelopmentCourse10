@@ -1,0 +1,216 @@
+body {
+    direction: rtl;
+    background-color: #cecbc6;
+}
+
+#container {
+    margin: 0 auto;
+    width: 960px;
+    background-color: #d5d4cf;
+    margin-top: 50px;
+    padding: 10px;
+    position: relative;
+}
+
+#myWork {
+    padding-top: 200px;
+    margin-right: 80px;
+}
+
+nav ul {
+    list-style: none;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+    nav ul li {
+        display: inline-block;
+        float: right;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            text-align: center;
+            font-size: 20px;
+            padding: 6px;
+            font-weight: bold;
+            color: #ef3e4a;
+            font-family: 'Varela Round';
+            background-color: #d5d4cf;
+            margin: 3px;
+            -webkit-border-radius: 3px 3px 3px 3px;
+            border-radius: 3px 3px 3px 3px;
+        }
+
+            nav ul li a:hover {
+                background-color: #c5beaa;
+            }
+
+            nav ul li a:active {
+                background-color: #98A7B2;
+            }
+
+h1 {
+    color: #918c81;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 60px;
+    margin-right: 50px;
+    clear: both;
+}
+
+.tikshoret {
+    background-color: #f7f7f7;
+    font-family: 'Varela Round', sans-serif;
+    padding: 5px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+footer {
+    margin-top: 250px;
+    margin-right: 400px;
+}
+
+#facebook {
+    background-image: url('../images/facebook new.svg');
+    width: 77px;
+    height: 78px;
+    background-size: 239px;
+    display: inline-block;
+    background-position-x: -3px;
+    background-repeat: no-repeat;
+}
+
+    #facebook:hover {
+        background-position: center;
+    }
+
+    #facebook:active {
+        background-position: right;
+    }
+
+
+#gmail {
+    background-image: url('../images/MAIL new.svg');
+    width: 80px;
+    height: 81px;
+    background-size: 240px;
+    display: inline-block;
+}
+
+    #gmail:hover {
+        background-position: center;
+    }
+
+    #gmail:active {
+        background-position: right;
+    }
+
+#takshah {
+    margin-top: 50px;
+    margin-right: 197px;
+}
+
+#seret {
+    margin-top: 30px;
+    margin-right: 200px;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 30px;
+    color: #918780;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+#irgun {
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+h2 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 35px;
+    color: #f7f7f7;
+    margin-right: 50px;
+    margin-top: 22px;
+    margin-bottom: 41px;
+}
+
+#logo {
+    margin-top: 30px;
+    margin-right: 180px;
+}
+
+#kraza {
+    margin-top: 30px;
+    margin-right: 300px;
+}
+
+#audio {
+    margin-top: 15px;
+    margin-right: 50px;
+  
+}
+
+#pLogo {
+    border-bottom: solid #f7f7f7 1px;
+    padding-bottom: 48px;
+    width: 865px;
+}
+
+#tik {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 40px;
+    color: black;
+    margin-top: -292px;
+    margin-right: 104px;
+}
+
+#myName {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 91px;
+    color: black;
+    margin-right: 104px;
+    margin-top: -51PX;
+}
+
+#logoG {
+    font-size: 15px;
+    color: #97877b;
+    font-family: 'Varela Round', sans-serif;
+    top: 371px;
+    right: 197px;
+    position: absolute;
+}
+
+#krazaG {
+    font-size: 15px;
+    color: #97877b;
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    bottom: 619px;
+    right: 263px;
+}
+
+#irgunG {
+    font-size: 15px;
+    color: #97877b;
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    top: 245px;
+}
+
+#takshahG {
+    font-size: 15px;
+    color: #97877b;
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    top: 622px;
+    right: 158px;
+}
